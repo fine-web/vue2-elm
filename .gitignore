@@ -10,5 +10,3 @@ tree.md
 *.idea
 
 elm/
-
-/dist.zip
